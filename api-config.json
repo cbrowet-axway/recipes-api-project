@@ -1,6 +1,6 @@
 {
   "name" : "recipes-mock",
-  "path" : "/recipes",
+  "path" : "/cooking",
   "state" : "unpublished",
   "version" : "1.0.0",
   "organization" : "API Development",
