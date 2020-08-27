@@ -6,6 +6,10 @@ pipeline {
       maven "maven"
    }
 
+   environment {
+      AXWAY_APIM_CLI_HOME = '/var/jenkins_home'
+   }
+
    stages {
       stage('Build') {
          steps {
