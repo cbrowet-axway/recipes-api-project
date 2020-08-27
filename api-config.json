@@ -1,0 +1,10 @@
+{
+  "name" : "recipes-mock",
+  "path" : "/recipes",
+  "state" : "unpublished",
+  "version" : "1.0.0",
+  "organization" : "API Development",
+  "apiDefinition" : "recipes-mock.json",
+  "backendBasepath" : "http://api.semperpax.com:30080",
+  "clientOrganizations" : [ "API Development" ]
+}
